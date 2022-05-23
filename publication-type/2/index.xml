@@ -1,19 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | Josh Anibal</title><link>https://joanibal.github.io/publication-type/2/</link><atom:link href="https://joanibal.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://joanibal.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>2</title><link>https://joanibal.github.io/publication-type/2/</link></image><item><title>Aerodynamic shape optimization of an electric aircraft motor surface heat exchanger with conjugate heat transfer constraint</title><link>https://joanibal.github.io/publication/anibal2022/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://joanibal.github.io/publication/anibal2022/</guid><description>&lt;!-- https://youtu.be/EqdaMz20Rjc -->
-&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
-&lt;/div>
-&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Josh Anibal</title>
+    <link>https://joanibal.github.io/publication-type/2/</link>
+      <atom:link href="https://joanibal.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joanibal.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://joanibal.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Aerodynamic shape optimization of an electric aircraft motor surface heat exchanger with conjugate heat transfer constraint</title>
+      <link>https://joanibal.github.io/publication/anibal2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://joanibal.github.io/publication/anibal2022/</guid>
+      <description>&lt;!-- https://youtu.be/EqdaMz20Rjc --&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
--->
-&lt;p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/EqdaMz20Rjc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-:&lt;/p></description></item><item><title>Flexible Formulation of Spatial Integration Constraints in Aerodynamic Shape Optimization</title><link>https://joanibal.github.io/publication/brelje2020/</link><pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate><guid>https://joanibal.github.io/publication/brelje2020/</guid><description/></item></channel></rss>
+ --&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/EqdaMz20Rjc?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexible Formulation of Spatial Integration Constraints in Aerodynamic Shape Optimization</title>
+      <link>https://joanibal.github.io/publication/brelje2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://joanibal.github.io/publication/brelje2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
